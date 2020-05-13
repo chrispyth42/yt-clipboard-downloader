@@ -5,6 +5,7 @@ Uses the packages 'tkinter' and 'youtube_dl' to read the computer's clipboard, a
 actions on youtube URLs
 
 USAGE:
+
 ./ytdownload.py [PATH] [-v]
 
 PATH specifies the directory to download audio/video into

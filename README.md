@@ -8,10 +8,6 @@ USAGE:
 
 ./ytdownload.py [PATH] [-v]
 
-PATH specifies the directory to download audio/video into
-	     ('downloads' by default)
--v   download the full video (Audio only by default)
-
 FUNCTIONALITY:
   On successful download, the audio/video is stored in the specified folder, and its ID is stored in a .csv file;
   to prevent duplicate downloads

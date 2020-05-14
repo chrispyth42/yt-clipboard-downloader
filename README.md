@@ -16,8 +16,7 @@ USAGE:
 
 FUNCTIONALITY:
 
-  On successful download, the audio/video is stored in the specified folder, and its ID is stored in a .csv file;
-  to avoid duplicate downloads
+After the script is started, it watches the computer's clipboard, and detects any youtube URLs with regex; automatically starting the download with the settings specified in the command line arguments. On successful download, the audio/video is stored in the specified folder, and its ID is stored in a .csv file; to avoid duplicate downloads
 
 TROUBLESHOOT:
 

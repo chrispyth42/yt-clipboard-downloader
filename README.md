@@ -15,9 +15,12 @@ USAGE:
     -v   = 'download entire video' flag (audio only by default)
 
 FUNCTIONALITY:
+
   On successful download, the audio/video is stored in the specified folder, and its ID is stored in a .csv file;
   to avoid duplicate downloads
 
 TROUBLESHOOT:
-	If unexpected errors occur, make sure youtube_dl is up to date with:
-	"pip install --upgrade youtube_dl"
+
+If unexpected errors occur, make sure youtube_dl is up to date with:
+    
+    "pip install --upgrade youtube_dl"

@@ -23,4 +23,4 @@ TROUBLESHOOT:
 
 If unexpected errors occur, make sure youtube_dl is up to date with:
     
-    "pip install --upgrade youtube_dl"
+    pip install --upgrade youtube_dl

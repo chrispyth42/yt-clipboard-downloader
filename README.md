@@ -9,7 +9,8 @@ DEPENDANCIES:
 
     youtube-dl   - An open source youtube downloader project that keeps up to date as changes are made to youtube
     ffmpeg       - An audio/video conversion package, needed to convert webm to mp3 in this project
-    python3-tk   - Adds the standard python GUI library tkinter, if you don't have it installed already
+    python3-tk   - Adds the standard python GUI library tkinter, if you don't have it installed already.
+                   Used in this project for its access to the clipboard
     
 NOTE: 
 

@@ -66,7 +66,6 @@ def main():
 #######################################################################
 # path[str]       - The directory to save the videos in
 # saveVideo[bool] - True to save video, False to save audio
-# dupeFile[str]   - File to store video IDs
 # clip[str]       - Paste data to be evaluated for youtube URLs
 # landing[str]    - Message to display after completing the routine
 #######################################################################

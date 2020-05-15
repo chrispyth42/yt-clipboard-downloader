@@ -4,8 +4,8 @@ Automatically downloads content from youtube URLs as they're copied to the compu
 
 DEPENDANCIES:
     
-    pip package :  youtube-dl
-    apt packages:  ffmpeg python3-tk
+    pip package  :  youtube-dl
+    apt packages :  ffmpeg python3-tk
 
 NOTE: 
 

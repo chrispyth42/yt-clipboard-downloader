@@ -2,6 +2,11 @@
 
 Automatically downloads content from youtube URLs as they're copied to the computer's clipboard
 
+DEPENDANCIES:
+    
+    pip packages 'tkinter' and 'youtube-dl'
+    apt package ffmpeg
+
 NOTE: 
 
 It only semi-works in windows. Tkinter's clipboard selection behaves differently in a windows environment, and the dependencies of youtube_dl work differently as well; not including the codecs to output to MP3. It does work fantastic in Ubuntu 18.04 though. This script uses the packages 'tkinter' and 'youtube_dl' to read the computer's clipboard, and automatically perform download

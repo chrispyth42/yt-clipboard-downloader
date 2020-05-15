@@ -9,7 +9,7 @@ DEPENDANCIES:
 
 NOTE: 
 
-It only semi-works in windows. Tkinter's clipboard selection behaves differently in a windows environment, and ffmpeg has a different installation process in windows (the package for converting from the default format of webm, to mp3). It does work fantastic in Ubuntu 18.04 though. This script uses the packages 'tkinter' to read the computer's clipboard, and 'yotube-dl' to perform download actions on youtube URLs
+It only semi-works in windows due to tkinter's clipboard selection behaving differently in a windows environment, and ffmpeg having a different installation process in windows (the package for converting from the default format of webm, to mp3). It does work fantastic in Ubuntu 18/20 though. This script uses the packages 'tkinter' to read the computer's clipboard, and 'yotube-dl' to perform download actions on youtube URLs
 
 USAGE:
 
